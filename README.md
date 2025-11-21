@@ -4,7 +4,7 @@
 
 A highly accurate recreation of MacOS and some of its apps, built entirely with SwiftUI and generated using Google's **Gemini 3.0 Pro**. Built to run and be used on **iOS**.
 
-https://github.com/user-attachments/assets/a986548f-1610-4a2f-82ab-572c5bbb3658
+https://github.com/user-attachments/assets/7c49d703-565b-408c-966d-fe73e91e09d4
 
 This project serves as a playground to test the limits of AI code generation and modern SwiftUI capabilities by rebuilding MacOS interactions in an iOS app.
 
@@ -43,3 +43,9 @@ Contributions are welcome! If you would like to recreate other system apps (e.g.
 *   **Code Generation:** All SwiftUI code in this project was generated using **Gemini 3.0 Pro**.
 *   **Assets:** The application icons used in this project were sourced from [Sketch Resources](https://www.sketch.com/s/7e5d41a8-dbde-4372-abf1-59792d73bc7c/symbols?g=App%2520Icons).
 *   This project is for demonstration purposes only and is not affiliated with Apple Inc.
+
+## Screenshots
+
+<img width="600" height="666" alt="Demo 2" src="https://github.com/user-attachments/assets/c5cd460d-9ef6-4031-8576-bffdf7a62ec7" />
+
+<img width="600" height="727" alt="Demo 1" src="https://github.com/user-attachments/assets/043dfa12-3f28-4217-8402-d883927c5176" />
