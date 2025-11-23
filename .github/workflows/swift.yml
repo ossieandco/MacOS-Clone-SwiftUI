@@ -29,6 +29,7 @@ jobs:
             -sdk iphoneos \
             -configuration Release \
             CODE_SIGNING_ALLOWED=NO \
+            IPHONEOS_DEPLOYMENT_TARGET=18.0 \
             build
 
       - name: Run tests on iOS simulator
